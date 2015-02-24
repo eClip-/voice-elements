@@ -1,0 +1,1 @@
+$scope.accents = ['en-US', 'en-GB', 'es-ES', 'fr-FR', 'it-IT', 'de-DE', 'ja-JP', 'ko-KR', 'zh-CN'];

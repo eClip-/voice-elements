@@ -1,0 +1,37 @@
+{
+  "name": {
+    "de": "Modulname",
+    "en": "modulename"
+  },
+  "slug": "your-slug",
+  "version": "x.y.z",
+  "description": {
+    "de": "Kurze Beschreibung",
+    "en": "Short description"
+  },
+  "contributors": [
+    {
+      "name": "Maik Hummel",
+      "email": "maik@eclip.io"
+    },
+    {
+      "name": "Nico Axtmann",
+      "email": "nico@eclip.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eClip-/mp.git"
+  },
+  "keywords": {
+    "de": [
+      "schlagwort1",
+      "schlagwort2"
+    ],
+    "en": [
+      "keyword1",
+      "keyword2"
+    ]
+  },
+  "author": "Maik Hummel <maik@eclip.io>"
+}
