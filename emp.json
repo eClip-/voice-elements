@@ -1,13 +1,13 @@
 {
   "name": {
-    "de": "Modulname",
-    "en": "modulename"
+    "de": "Sprachausgabe",
+    "en": "Voice output"
   },
-  "slug": "your-slug",
-  "version": "x.y.z",
+  "slug": "voice-elements",
+  "version": "0.0.1",
   "description": {
-    "de": "Kurze Beschreibung",
-    "en": "Short description"
+    "de": "Multilinguale Sprachausgabe",
+    "en": "output voice in different languages"
   },
   "contributors": [
     {
@@ -25,12 +25,12 @@
   },
   "keywords": {
     "de": [
-      "schlagwort1",
-      "schlagwort2"
+      "sprache",
+      "ausgabe"
     ],
     "en": [
-      "keyword1",
-      "keyword2"
+      "voice",
+      "language"
     ]
   },
   "author": "Maik Hummel <maik@eclip.io>"
